@@ -1,0 +1,100 @@
+.bacback {
+  background: url(media/darkback.png) center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+
+.blenderback {
+    background: url(media/blenderscreenshot.png) center / cover;
+}
+
+.abletonback {
+    background: url(media/abletonback.png) center / cover;
+}
+
+.spacercell {
+    height: 20px;
+}
+
+.biggerspacercell {
+    height: 100px;
+}
+
+.cardheader {
+  background: url(media/miketext.png) center / cover;
+}
+
+.resume {
+  background-image: url(media/mikebackplate.png);
+  height: 200px;
+}
+
+.video {
+  background-image: url(media/blenderraw.png);
+  height: 200px;
+}
+
+.stylefiles07 {
+  background-image: url(media/sm.png);
+  height: 200px;
+}
+
+.littledeath {
+  background-image: url(media/move.png);
+  height: 200px;
+}
+
+.ableton {
+  background-image: url(media/abletonraw.png);
+  height: 200px;
+}
+
+.graphic {
+  background-image: url(media/graphicdesign.png);
+  height: 200px;
+}
+
+.drought {
+    background: url(media/droughtfinal.png) center / cover;
+    height: 200px;
+}
+
+.hopeClouds {
+    background: url(media/hcdone.png) center / cover;
+    height: 200px;
+}
+
+.hotp {
+    background: url(media/hotpnewww.png) center / cover;
+    height: 200px;
+}
+
+.pta {
+    background: url(media/ptafinal.png) center / cover;
+    height: 200px;
+}
+
+.bact {
+    background: url(media/bacteria.png) center / cover;
+    height: 200px;
+}
+
+.steph {
+    background: url(media/steph.png) center / cover;
+    height: 200px;
+}
+
+.pl {
+    background: url(media/personallogowhite.png) center /cover ;
+    height: 190px;
+}
+
+.sl {
+    background: url(media/stephwhite.png) center /cover;
+    height: 190px;
+}
+
